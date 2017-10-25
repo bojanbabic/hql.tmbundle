@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
-	<string>pvnjny@tznvy.pbz</string>
+	<string>gbabun@gmail.com</string>
 	<key>contactName</key>
-	<string>Ciarán Walsh</string>
+	<string>Bojan Babic</string>
 	<key>description</key>
-	<string>Database query language with support for MySQL and PostgreSQL.</string>
+	<string>Query language with support for HQL.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -28,8 +28,8 @@
 		<dict/>
 	</dict>
 	<key>name</key>
-	<string>SQL</string>
+	<string>HQL</string>
 	<key>uuid</key>
-	<string>AAB4CBF7-73F9-11D9-B89A-000D93589AF6</string>
+	<string>53268E61-6D12-47A0-B89A-0102F64E56DD</string>
 </dict>
 </plist>
