@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>hql</string>
+		<string>q</string>
 		<!--string>ddl</string>
 		<string>dml</string-->
 	</array>
